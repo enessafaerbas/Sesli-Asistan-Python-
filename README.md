@@ -13,4 +13,10 @@ Komut_uygula.py dosyasında sesli asistana ne yaptırmak istiyorsak onu metotlar
 
 Kullanıcını sesini anlayabilmek için speech_recognition kütüphanesini ve bu kütüphanenin içinde olan metotları kullandım.
 
+İnternetten Arama yapmak için webbrowser , googlesearch kütüphanelerini kullandım. Bu metotta iki seçenek vardır. Bu seçeneklerden biri kullanıcının istediği arama sözcüğünü google da arayıp arama sonuclarını gösteren seçenek. Diğer seçenek ise arama sonuçlarının en üstteki 5 sonunçtan random olarak birini seçmesidir. Kullanılan kütüphaneleri metotları kodda yorum satırı olarak anlatılmaktadır.
+
+İlleri tanıttığımız kısım ise iki ayrı py dosyasının gerçekleştirmiş olduğu metotlar ile oluşmaktadır.
+Komut_uygula.py dosyasının içindeki iller metot'u iki türkiye_iller.py ve türkiye_iller_db.py dosyalarına bağlantılıdır. Burada Bilgileri internet sitelerinden çekip veri tabanına kayıt ettikten sonra sesli asistana ekleyabildim. Database oluşturup iki ayrı tabloda illerin adlarına göre ihtiyaç duyulan bilgileri çekip veri tabanına kaydettim. Kodlar Yorum satırlarında açıklandı.
+türkiye_iller.py dosyasında internetten verileri çekebilmeniz için metotların nesnesini oluşturmanız gerekli. Ben çalıştrırken bir kere çalıştırıp veri tabanına kayıt işlemi gerçekleştirdikten sonra nesneleri sildim. Arayüz tasarımı yaapılırken gerekli düzenlemeler yapılacaktır.
+
 
