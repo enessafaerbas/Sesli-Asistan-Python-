@@ -1,2 +1,3 @@
 # Sesli-Asistan-Python-
-Enes safa Erbaş
+Bu Uygulamada Sesli Asistan kullanarak Türkiye'de bulunan illerinin kısaca bilgileri verilmektedir.
+
