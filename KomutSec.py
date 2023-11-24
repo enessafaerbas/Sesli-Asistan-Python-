@@ -21,7 +21,7 @@ import os
 uygula=uygula()
 
 nasılsın= ["naber","haber","ne yapıyorsun","ne","yapıyorsun","nasılsın","napıyon","nabıyon","ne" ,"var"," ne"," yok"]
-cvp_nasılsın = ["iyiyim","çok iyiyim","iyi olmaya çalışıyorum","hamd olsun iyiyim"]
+cvp_nasılsın = ["iyiyim","çok iyiyim","iyi olmaya çalışıyorum"]
 kapat=["görüşürüz","kendini kapat","kapat","tamamdır"]
 arama=["ara","yap","google'da","aç","araştır","açarmısın","google'ı","araştırırmısın","araştırma","bul"]
 iller=["adana","adıyaman","afyonkarahisar","afyon","ağrı","amasya","ankara","antalya","artvin","aydın","balıkesir","bilecik","bingöl","bitlis","bolu","burdur","bursa","çanakkale","çankırı","çorum","denizli","diyarbakır","edirne","elazığ","erzincan","erzurum","eskişehir","gaziantep","giresun","gümüşhane","hakkari","hatay","mersin","kars","kastamonu","kayseri","kırklareli","kırşehir","kocaeli","konya","kütahya","malatya","manisa","kahramanmaraş","maraş","mardin","muğla","muş","nevşehir","niğde","ordu","rize","sakarya","samsun","siirt","sinop","sivas","tekirdağ","tokat","trabzon","tunceli","şanlıurfa","urfa","uşak","van","yozgat","zonguldak","aksaray","bayburt","karaman","kırıkkale","batman","şırnak","bartın","ardahan","ığdır","yalova","karabük","kilis","osmaniye","düzce"]
